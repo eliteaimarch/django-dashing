@@ -111,12 +111,3 @@ Run tests.
 .. code-block:: text
 
     $ npm test
-
-Links
-===============================================
-
-- `Documentation <http://django-dashing.readthedocs.org/>`_
-- `Demo application <https://github.com/individuo7/django-dashing-demo-app>`_
-- `Widget List <https://github.com/talpor/django-dashing-channel/blob/master/repositories.json>`_
-
-
